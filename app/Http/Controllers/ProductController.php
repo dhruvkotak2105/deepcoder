@@ -7,6 +7,7 @@ use App\Product;
 use App\Category;
 use Illuminate\Support\Facades\Storage;
 
+
 class ProductController extends Controller
 {
     /**
